@@ -12,13 +12,13 @@ def main():
         api_service_name,api_version,developerKey = DEVELOPER_KEY
     )
     request = youtube.videos().list(
-       part="contentDetails,statistics",
-        id="KMdlKttaWJY,LrNiiFPKA90,rcgrVgVlV5c,S07VinbxN3g",
+       part="snippet,contentDetails,statistics",
+        id="KMdlKttaWJY,LrNiiFPKA90,rcgrVgVlV5c,S07VinbxN3g,IxchuaO_frY",
         maxResults=50
     )
     
     response = request.execute()
-    with open("channel_ouput.json", "w", encoding="utf-8") as f:
+    with open("video.json", "w", encoding="utf-8") as f:
         json.dump(response, f, indent=4, ensure_ascii=False)
 if __name__ == "__main__":
     main()

@@ -17,7 +17,7 @@ def main():
         videoId="S07VinbxN3g"
     )
     response = request.execute()
-    with open("output.json", "w", encoding="utf-8") as f:
+    with open("comment.json", "w", encoding="utf-8") as f:
         json.dump(response, f, indent=4, ensure_ascii=False)
 if __name__ == "__main__":
     main()
