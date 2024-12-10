@@ -40,9 +40,30 @@ def main():
 
     # Danh sách video IDs
     video_ids = [
-        "lpHZsaH_nfE", "XwY9ysGXkI4", "KJApEC8hGTk",
-        "0gwVK2nUjYY", "AZ508saosRY", "L4HWqGQxIj4",
-        "934Upp7Efw0", "QbLxZQpMwug", "2m2P4QCCsEo"
+        "Iz9m_BmWaNQ", "2jhTkzKipOs", "s5zMwZ1UNoM",
+        "RIS23gB1bxY", "ilznuulLEuY", "n2icxQPTcBk",
+        "7M9VPpCmKmo", "QccWP64BStk", "w40HqQd0UzE",
+        "iL7IozENDME","MCoqnoVau0g","nv63S_mucFE",
+        "XVTQPrwrU8s","5QCsAh9Eays","9YjhYj2g0gI",
+        "TrwPFTmWfiQ","ArijG-7ZfIk","Bj-aKeqIOhM","h1uOGL26qPo",
+        "nJHBlQr9ZgE","07whk7FVHYs","tXRL9knnwhc","UGp90Uw83eA",
+        "SsSOkL0Ukcw","EECy6-moQ1k","-h01EiWviW4",
+        "IviNQC5hjaw","3I1IfwJh6ag","HLWAhEmv814",
+        "bXPtdAe2_GA","vt30DFv-g1w","Voc9L5R6frU",
+        "HxZT0W9H0cg","C5obLwGGHFM","yoS0x8uOOlg","O8nVnHlmhCM",
+        "aA5RQC3EQdc","fu7wv48y4HQ","2rKNqwdS4xA","4V4KjfmH5vw",
+        "-VfFP4zpkZo","7txU8f9Dl5c","yNeEZmP64G4","xWpNbxjvWJ4",
+        "-gw2F1X8FWU","wwjaLRORIXM","78uRq9DW6Eo","pDEZNMGNzwI",
+        "P8OxHGnjxak","fiQLtx2tub0","z2Qh_3aqJUE","OJuPI0f2998",
+        "CiRT1Snm7Ls","dlTwXSJZuto","fpdTRJ41Lrk","zs9xbXCOT6Y",
+        "IBChtjR2W5A","quZy6AhGmEc","ZXrUubjkYWs","R8zraNCJGrk",
+        "U0IsYidPD7k","JV-QEoOvOc4","U3PKVy6qsik","xD8Yce-4eoI",
+        "2f4AYga0VAw","G9TlFWHalW8","B4OF5RRlFag","t_VAxYbD8Yc",
+        "3VhfOmCLOTs","lE1hz1v4OVw","uqV7-J6D1T8","57gtgVbt-gc",
+        "CnlXly4_b9Y","3EJVgrejO3M","N9iLohJsq2w","K3g8Xew2Ef0",
+        "eUBUY8sMNyE","k1OAGmoqRP8","19FtJEBBu-Y","cC3G0szDBhA",
+        "CdVH16WCeC0","_7RmqaLyulw","uLeivs0bIwQ","IxchuaO_frY"
+
     ]
 
     # Lưu bình luận vào tệp JSON
