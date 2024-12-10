@@ -1,0 +1,810 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "_Xja2Lo5fxckLONmLgCwsUyf_ac",
+    "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNKMGdHQUVTQlFpb0lCZ0FFZ1VJaUNBWUFCSUZDSWtnR0FBU0JRaUhJQmdBSWc0S0RBakZ2N1M2QmhEUTY0ek5BZw==",
+    "pageInfo": {
+        "totalResults": 20,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_8oWRiNQEJFMDcny6XJtriwJQ9A",
+            "id": "Ugw8BYYTLHA59UnHOCh4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "9lGcak3CgV5WbzuNSV3FbbSy24k",
+                    "id": "Ugw8BYYTLHA59UnHOCh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Khu ổ chuột lớn thứ 3 Thế Giới là cách người dân Kenya đặt cho Kibera. Người ta nói, nơi này có thể có đến 500 ngàn đến 1 triệu người sinh sống, nhưng cũng có những số liệu khác cho rằng, nơi đây chỉ là nơi ở của chưa tới 200 ngàn người. Dù sao đi nữa, thì nơi đây vẫn luôn là lơi gây tò mò mới nhiều người trên Thế Giới, cộng đồng cư dân Kibera có những gì đặc biệt, cùng Khoai khám phá nơi này trong 2 tập nha. Tập đầu này chỉ là bước làm quen, Khoai sẽ cùng mọi người ở đây đi chợ địa phương và nấu ăn thiệt vui.<br><br>Các tập về hành trình Châu Phi, Khoai để ở đây nha:<br>Phần 1: <a href=\"https://www.youtube.com/watch?v=0Q8fkicguR8\">https://youtu.be/0Q8fkicguR8</a><br>Phần 2: <a href=\"https://www.youtube.com/watch?v=aoFeasRsiyk\">https://youtu.be/aoFeasRsiyk</a><br>Phần 3: <a href=\"https://www.youtube.com/watch?v=xEnYZ55FCG8\">https://youtu.be/xEnYZ55FCG8</a><br>Phần 4: <a href=\"https://www.youtube.com/watch?v=IJ24VtLd1jU\">https://youtu.be/IJ24VtLd1jU</a><br>Phần 5: <a href=\"https://www.youtube.com/watch?v=oL9OX4e2Kl4\">https://youtu.be/oL9OX4e2Kl4</a><br>Phần 6: <a href=\"https://www.youtube.com/watch?v=NgaZHtCr_a0\">https://youtu.be/NgaZHtCr_a0</a><br>Phần 7: <a href=\"https://www.youtube.com/watch?v=mzeh6lWhFi4\">https://youtu.be/mzeh6lWhFi4</a><br>Phần 8: <a href=\"https://www.youtube.com/watch?v=cJD4fc5l3fM\">https://youtu.be/cJD4fc5l3fM</a><br>Phần 9: <a href=\"https://www.youtube.com/watch?v=MLBhMV8k6e0\">https://youtu.be/MLBhMV8k6e0</a><br>Phần 10: <a href=\"https://www.youtube.com/watch?v=92-IbWKp_3k\">https://youtu.be/92-IbWKp_3k</a><br>Phần 11: <a href=\"https://www.youtube.com/watch?v=5AJd2FJUVkc\">https://youtu.be/5AJd2FJUVkc</a>",
+                        "textOriginal": "Khu ổ chuột lớn thứ 3 Thế Giới là cách người dân Kenya đặt cho Kibera. Người ta nói, nơi này có thể có đến 500 ngàn đến 1 triệu người sinh sống, nhưng cũng có những số liệu khác cho rằng, nơi đây chỉ là nơi ở của chưa tới 200 ngàn người. Dù sao đi nữa, thì nơi đây vẫn luôn là lơi gây tò mò mới nhiều người trên Thế Giới, cộng đồng cư dân Kibera có những gì đặc biệt, cùng Khoai khám phá nơi này trong 2 tập nha. Tập đầu này chỉ là bước làm quen, Khoai sẽ cùng mọi người ở đây đi chợ địa phương và nấu ăn thiệt vui.\n\nCác tập về hành trình Châu Phi, Khoai để ở đây nha:\nPhần 1: https://youtu.be/0Q8fkicguR8\nPhần 2: https://youtu.be/aoFeasRsiyk\nPhần 3: https://youtu.be/xEnYZ55FCG8\nPhần 4: https://youtu.be/IJ24VtLd1jU\nPhần 5: https://youtu.be/oL9OX4e2Kl4\nPhần 6: https://youtu.be/NgaZHtCr_a0\nPhần 7: https://youtu.be/mzeh6lWhFi4\nPhần 8: https://youtu.be/cJD4fc5l3fM\nPhần 9: https://youtu.be/MLBhMV8k6e0\nPhần 10: https://youtu.be/92-IbWKp_3k\nPhần 11: https://youtu.be/5AJd2FJUVkc",
+                        "authorDisplayName": "@KhoaiLangThang",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/xukNZ7OMGIyK8fLNxAwR-uy214xfaZph7btgo5-HpBbT0o8tZuJ38LBkSI_UcQWYklg4P-tZvQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@KhoaiLangThang",
+                        "authorChannelId": {
+                            "value": "UCZE88kYvCKUKjM-G0uc8Duw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 419,
+                        "publishedAt": "2024-11-05T13:31:56Z",
+                        "updatedAt": "2024-11-05T13:31:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 21,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "MND1QjLU1arkB_dtvjlOtdz3svc",
+                        "id": "Ugw8BYYTLHA59UnHOCh4AaABAg.AASxu4AeqP8AATAh2-pV4b",
+                        "snippet": {
+                            "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                            "videoId": "5AJd2FJUVkc",
+                            "textDisplay": "Hi chào khoai nhe chúc khoai thành công du lịch khắp châu âu",
+                            "textOriginal": "Hi chào khoai nhe chúc khoai thành công du lịch khắp châu âu",
+                            "parentId": "Ugw8BYYTLHA59UnHOCh4AaABAg",
+                            "authorDisplayName": "@QuyenKim-ps2kf",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kSlXB5JncBxQYklFEPg5tKy0-vp8ggyTtVDqtV1QrLwK6znR8nr6Qe68dtBL_QrSaUxw=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@QuyenKim-ps2kf",
+                            "authorChannelId": {
+                                "value": "UC5_2J0xG3eQkeY673HSrBog"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 2,
+                            "publishedAt": "2024-11-05T15:32:30Z",
+                            "updatedAt": "2024-11-05T15:32:30Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "hrSTXGvCzcJEhHTNh6k5HqnJNB8",
+                        "id": "Ugw8BYYTLHA59UnHOCh4AaABAg.AASxu4AeqP8AATBUmFzLnJ",
+                        "snippet": {
+                            "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                            "videoId": "5AJd2FJUVkc",
+                            "textDisplay": "Ăn tết Xong anh tính đi đâu nữa không có đi thì đi Nga chơi cho zui :)))",
+                            "textOriginal": "Ăn tết Xong anh tính đi đâu nữa không có đi thì đi Nga chơi cho zui :)))",
+                            "parentId": "Ugw8BYYTLHA59UnHOCh4AaABAg",
+                            "authorDisplayName": "@ouc2956",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kp7ewgck5-_jyRNSyddSJlZIipvBTmabIlzhVPmUOs-w=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@ouc2956",
+                            "authorChannelId": {
+                                "value": "UCuPKMv8CjXnGzKNHEG9BnJg"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 3,
+                            "publishedAt": "2024-11-05T15:39:25Z",
+                            "updatedAt": "2024-11-05T15:39:25Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "U43U2NQnZys8i3hiFotqa2g5lc4",
+                        "id": "Ugw8BYYTLHA59UnHOCh4AaABAg.AASxu4AeqP8AATGkZvc_2H",
+                        "snippet": {
+                            "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                            "videoId": "5AJd2FJUVkc",
+                            "textDisplay": "Chờ anh ra video lâu quá 😢",
+                            "textOriginal": "Chờ anh ra video lâu quá 😢",
+                            "parentId": "Ugw8BYYTLHA59UnHOCh4AaABAg",
+                            "authorDisplayName": "@HanhNongBich",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mhOsVvyiOR2DKy9B1rrzX-He2qQZ1jqeEpHRZoUYxTFaBeYJh5jM0kO6i-v0IKU5wb0w=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@HanhNongBich",
+                            "authorChannelId": {
+                                "value": "UCuI9QV6u5jf26nJIPApkAKg"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 2,
+                            "publishedAt": "2024-11-05T16:25:25Z",
+                            "updatedAt": "2024-11-05T16:25:25Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "fR25KzZ8ufTzUhFgZYEyKuJqa1g",
+                        "id": "Ugw8BYYTLHA59UnHOCh4AaABAg.AASxu4AeqP8AATUwtU6TWu",
+                        "snippet": {
+                            "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                            "videoId": "5AJd2FJUVkc",
+                            "textDisplay": "Ngóng trong từng clip cùa anh luôn ạaaa chúc anh có những chuyến đi khám phá vui vẻ và an toàn ạaaa, tập trước hơi rén rén em xem mà lo theo 2 anh luônnn",
+                            "textOriginal": "Ngóng trong từng clip cùa anh luôn ạaaa chúc anh có những chuyến đi khám phá vui vẻ và an toàn ạaaa, tập trước hơi rén rén em xem mà lo theo 2 anh luônnn",
+                            "parentId": "Ugw8BYYTLHA59UnHOCh4AaABAg",
+                            "authorDisplayName": "@chaudiepnguyen4099",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m7_VWP2M-wyfupX3xfFWII7I5b6VR9HWQxP5xfn2AYfQ30=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@chaudiepnguyen4099",
+                            "authorChannelId": {
+                                "value": "UCXPnZbWVi9FH9wkn6LQxIVg"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 3,
+                            "publishedAt": "2024-11-05T18:29:25Z",
+                            "updatedAt": "2024-11-05T18:29:25Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "qnDstio8NOWHfQ1bZfsqhvwBWKI",
+                        "id": "Ugw8BYYTLHA59UnHOCh4AaABAg.AASxu4AeqP8AATYokz6oef",
+                        "snippet": {
+                            "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                            "videoId": "5AJd2FJUVkc",
+                            "textDisplay": "Khoai đã đến Angola chưa",
+                            "textOriginal": "Khoai đã đến Angola chưa",
+                            "parentId": "Ugw8BYYTLHA59UnHOCh4AaABAg",
+                            "authorDisplayName": "@linho2651",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kx48G4vY7EQZh6PQOl9a2TWNn6tQgSeKCRc5gOyJo=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@linho2651",
+                            "authorChannelId": {
+                                "value": "UCxoNGrVJU5kb8Fa5tdwLcdw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 2,
+                            "publishedAt": "2024-11-05T19:03:16Z",
+                            "updatedAt": "2024-11-05T19:03:16Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NwFseAf5ZezZDuMm6EKXDbAaq_Y",
+            "id": "UgxUt89MS3mr4XryeyZ4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YGZsUs9flzvHH5eoa7TE4Y3EWCE",
+                    "id": "UgxUt89MS3mr4XryeyZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Nhờ xem video của a mà e muốn học được sự lạc quan từ a, với tập này cái bếp có chút xíu mà phải nấu cả đống đồ ăn, trong khi ở nhà e có bếp đàng hoàng   e cũng làm biếng ko muốn nấu, thấy gì cũng bất tiện trong khi ko nhìn thấy được những cái tiện mình có, 😢",
+                        "textOriginal": "Nhờ xem video của a mà e muốn học được sự lạc quan từ a, với tập này cái bếp có chút xíu mà phải nấu cả đống đồ ăn, trong khi ở nhà e có bếp đàng hoàng   e cũng làm biếng ko muốn nấu, thấy gì cũng bất tiện trong khi ko nhìn thấy được những cái tiện mình có, 😢",
+                        "authorDisplayName": "@Yumi-bz7cx",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k2nF59fIKhXX1dOJ8Pc8Cn3IeJ1AK3u40cP2jjU8cmoA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Yumi-bz7cx",
+                        "authorChannelId": {
+                            "value": "UCMM9pdteyYisC0yB99yI2Gg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-09T16:47:19Z",
+                        "updatedAt": "2024-12-09T16:47:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ozkw4T-rEXIdi0nc6spDnO5NOXU",
+            "id": "UgycjQql5vaNC62MFtB4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "C3WFjgtueKhkOWLqsRMdhIOUtws",
+                    "id": "UgycjQql5vaNC62MFtB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=5AJd2FJUVkc&amp;t=1385\">23:05</a>🥺🥺🥺🥺🥺🥺 meo meo meo meoooo dễ thương quáaaa🥺🥺🥺☹️🥺🥺🥺",
+                        "textOriginal": "23:05🥺🥺🥺🥺🥺🥺 meo meo meo meoooo dễ thương quáaaa🥺🥺🥺☹️🥺🥺🥺",
+                        "authorDisplayName": "@Yumi-bz7cx",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k2nF59fIKhXX1dOJ8Pc8Cn3IeJ1AK3u40cP2jjU8cmoA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Yumi-bz7cx",
+                        "authorChannelId": {
+                            "value": "UCMM9pdteyYisC0yB99yI2Gg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-09T16:42:40Z",
+                        "updatedAt": "2024-12-09T16:42:40Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "OfecygKR0Cq24Aok9qAIUxTg1D4",
+            "id": "UgzK5UeEfa77Bx0fhuF4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "bblU7BJGJoU0eFrZ52qgzJ74KG0",
+                    "id": "UgzK5UeEfa77Bx0fhuF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Hay quá ạ❤",
+                        "textOriginal": "Hay quá ạ❤",
+                        "authorDisplayName": "@leong-iq3fw",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kRFQYW8qiU37sWuMQmA2wYYmvHH4Kosb_S1OSdMfB6SQ0sN30dpNzV38mrY-AKhoJywg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@leong-iq3fw",
+                        "authorChannelId": {
+                            "value": "UCNl4dJqJ6WmltDkl3XMVeuA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-07T14:38:37Z",
+                        "updatedAt": "2024-12-07T14:38:37Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xLV5MFSnEAF7WcRtAooEsvmsHNw",
+            "id": "UgydppatAbDTAJKXwwR4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "oBL3-ftwiJncD1BKz0vYpBEdipo",
+                    "id": "UgydppatAbDTAJKXwwR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Ui đẹp trai quá",
+                        "textOriginal": "Ui đẹp trai quá",
+                        "authorDisplayName": "@TàiNguyễn-u1j",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mglSGNWk20-HpB6wp4hDTlkjSknX7Mob79E28e-oGndr22p_2wSbntTBphlxeuIcZhlA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@T%C3%A0iNguy%E1%BB%85n-u1j",
+                        "authorChannelId": {
+                            "value": "UC5QUdw3VbS0_VBaCMWZvX4Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-07T10:44:47Z",
+                        "updatedAt": "2024-12-07T10:44:47Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "66-OggCi1-RhNzvAxeoIPV_mBSM",
+            "id": "Ugwh0baH3k8y5kNltXp4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "fc4Xe2eu6pXbh4NBiB3S4sKHRuI",
+                    "id": "Ugwh0baH3k8y5kNltXp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Nay xem tập này thấy nhẹ nhàng vui vẻ bình thường, ko phải nín thở ! Lựa chọn hay đó. Tự khám phá thì hay hơn rồi, nhưng ở nơi an ninh ko tốt thì vậy tốt hơn nhiều ! <br>Dao bào này bán đầy ở VN á con ơi !<br>Thấy cô này cắt dưa hấu mà nhớ ở chợ tập trước, ông bán dưa cắt lát dưa điệu nghệ luôn !<br>Đây như là 1 phần trong văn phòng cty của &quot;tour guide&quot;. Chỗ nấu ăn trông ko phải là bếp, giống như để phục vụ cho yêu cầu của Khoai nên họ tạm dọn chỗ để làm bếp (STAFF ONLY trên cửa). Tất cả các dụng cụ đều mới, thậm chí đi chợ còn mua thêm nữa. Vậy cũng tốt hen.<br>Cái biểu cảm thử dưa lựu đạn của ảnh cũng giông giống của Khoai khi thử món hen ! 😄",
+                        "textOriginal": "Nay xem tập này thấy nhẹ nhàng vui vẻ bình thường, ko phải nín thở ! Lựa chọn hay đó. Tự khám phá thì hay hơn rồi, nhưng ở nơi an ninh ko tốt thì vậy tốt hơn nhiều ! \nDao bào này bán đầy ở VN á con ơi !\nThấy cô này cắt dưa hấu mà nhớ ở chợ tập trước, ông bán dưa cắt lát dưa điệu nghệ luôn !\nĐây như là 1 phần trong văn phòng cty của \"tour guide\". Chỗ nấu ăn trông ko phải là bếp, giống như để phục vụ cho yêu cầu của Khoai nên họ tạm dọn chỗ để làm bếp (STAFF ONLY trên cửa). Tất cả các dụng cụ đều mới, thậm chí đi chợ còn mua thêm nữa. Vậy cũng tốt hen.\nCái biểu cảm thử dưa lựu đạn của ảnh cũng giông giống của Khoai khi thử món hen ! 😄",
+                        "authorDisplayName": "@votuyetdung5977",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/8_0x-4fWTT6j8B6CY7LPzgBHVunoNw4nDlW-5m2Ard19IoLoYz_H0GDiWgpB5yuV6kN7XX1Y=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@votuyetdung5977",
+                        "authorChannelId": {
+                            "value": "UCl4YtSpfPZU_m2wRer9EW_A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-07T08:57:32Z",
+                        "updatedAt": "2024-12-07T08:57:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "6HP4zp-l2Zy29ii-T9Az5odP9ME",
+            "id": "UgzeP0vpEEExpG59kJN4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ARG88FQRwGPegNoF7wYFyf8OPeY",
+                    "id": "UgzeP0vpEEExpG59kJN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Châu phi dễ thương",
+                        "textOriginal": "Châu phi dễ thương",
+                        "authorDisplayName": "@dinhkhaivlog",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Le344vbG8rQMFYLG4MddN9ymzW8MB7T_wu4cDHFFEj57e3Ht-XszZi2opC9y3iolVEUxK8ucrQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@dinhkhaivlog",
+                        "authorChannelId": {
+                            "value": "UChaHPdQ9_a9Hg9eDycVVd3w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-07T06:22:19Z",
+                        "updatedAt": "2024-12-07T06:22:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Ivej1lNr3_vqySkv6w3Oert7ZVY",
+            "id": "UgwnSBzU1lEAvnlx-5F4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "8hYk_yOIt41Qwm6ZxFKeFAiWZIA",
+                    "id": "UgwnSBzU1lEAvnlx-5F4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Clip hay lắm anh Khoai!!!",
+                        "textOriginal": "Clip hay lắm anh Khoai!!!",
+                        "authorDisplayName": "@AnhNguyen-x5k4r",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lqybv1ymmQZzV-g7nROuYqYvRtqWJrzgIBL02smStPjjYqrzc547dVBcr4Ak5lP7MDAg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AnhNguyen-x5k4r",
+                        "authorChannelId": {
+                            "value": "UCcS6i1P2ZXDrUpX3uwuMRjw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-06T15:40:21Z",
+                        "updatedAt": "2024-12-06T15:40:21Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8sm-k3HKf-O1ssylpIFsq4jz6Us",
+            "id": "UgyUzCIwolTfclILh-h4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MADZcu54YgZZ8u9Dafh1O1AsnZ0",
+                    "id": "UgyUzCIwolTfclILh-h4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Khoai bao nhiêu tuổi sinh năm nào",
+                        "textOriginal": "Khoai bao nhiêu tuổi sinh năm nào",
+                        "authorDisplayName": "@PhượngHuỳnhThịBạch",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lDEcvZu9Ma2FG9uoD0zoy5fomWlP39McilMj_VU1TjJ_gf71EBO-aqzKbq64nmLcwjHg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Ph%C6%B0%E1%BB%A3ngHu%E1%BB%B3nhTh%E1%BB%8BB%E1%BA%A1ch",
+                        "authorChannelId": {
+                            "value": "UCH5bKMdvgbZ0H1CElbLiFBw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-04T12:14:42Z",
+                        "updatedAt": "2024-12-04T12:14:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bY1bzPU9Tgla2gKwt-mnSnSfbok",
+            "id": "UgyM_rAii-HSQQ1Ex9h4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "taxlh9J-Ojdza3CfLXu0cIiqPPA",
+                    "id": "UgyM_rAii-HSQQ1Ex9h4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Em đang stress lắm luôn, nhớ lại nên đi xem vlog của anh thấy vui hẵn❤",
+                        "textOriginal": "Em đang stress lắm luôn, nhớ lại nên đi xem vlog của anh thấy vui hẵn❤",
+                        "authorDisplayName": "@30.Phương_NguyễnHồThyPhương",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/7xyyxEiLHE16xl5b0myhtxnDDvqjsDZcuEcdKZoE9A_D9ey2vEWtY4DkiNO-6sZr4eFTVhhvJg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@30.Ph%C6%B0%C6%A1ng_Nguy%E1%BB%85nH%E1%BB%93ThyPh%C6%B0%C6%A1ng",
+                        "authorChannelId": {
+                            "value": "UCOHFyxUnfdtqSZ50jotf7Uw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-04T11:04:26Z",
+                        "updatedAt": "2024-12-04T11:04:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "II21VOKaQg3q1YGLcc0n23pJhjM",
+            "id": "Ugwt-5znEtv6itfAkAh4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "18kf0VhBUp4SKHzjDN2BRhlyw2A",
+                    "id": "Ugwt-5znEtv6itfAkAh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "hh",
+                        "textOriginal": "hh",
+                        "authorDisplayName": "@trongphucmeomeo1938",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ks6nCXKfx6IggjOZp8la2yu1bH7abPhqrOJb0nWlAvnA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@trongphucmeomeo1938",
+                        "authorChannelId": {
+                            "value": "UCMar8IJSQ9cyjl63u62wkaA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-04T00:07:32Z",
+                        "updatedAt": "2024-12-04T00:07:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "gvrImClFTxEsbMNDLQLu4NXyFDk",
+            "id": "Ugxkh_pmSP0s68tE8AV4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "q21hSXftBj6j8CmYkXeWG2pZXXQ",
+                    "id": "Ugxkh_pmSP0s68tE8AV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Trà kenya nổi tiếng nhất thế giới",
+                        "textOriginal": "Trà kenya nổi tiếng nhất thế giới",
+                        "authorDisplayName": "@Akela_Biker",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/UQJvC9pGjsW9-4fDekYHJYz8RxI8Gj4tRuoA87HE7Jp8AYi6Zyt_jf53EZE8k7_NRC98Yuyt0w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Akela_Biker",
+                        "authorChannelId": {
+                            "value": "UCQWo5yup13aOje1GNcolBxg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-03T11:36:10Z",
+                        "updatedAt": "2024-12-03T11:36:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "IFZwXa8NEZETKT5u4dsQUhSdtNM",
+            "id": "Ugwve8ghg_VNZn_okjZ4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "g9tQx8bQTtjXOaf56SYENyETJ0k",
+                    "id": "Ugwve8ghg_VNZn_okjZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "cây dao bào đó made in Vietnam đó bạn :v",
+                        "textOriginal": "cây dao bào đó made in Vietnam đó bạn :v",
+                        "authorDisplayName": "@AnLucci",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nAgisDwSdZn27OyookR251Rn6DPpUElsH6PfjefIRBDZE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AnLucci",
+                        "authorChannelId": {
+                            "value": "UCB5VTtyIYM9AADWKdNBpjqQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-03T11:32:34Z",
+                        "updatedAt": "2024-12-03T11:32:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "at4AHy3f5OoOlBQnhV7sO-cGyVc",
+            "id": "Ugx0IEEt6J19sqJEPDZ4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ik_h06biaUqpljBn5YvxFFg0rkQ",
+                    "id": "Ugx0IEEt6J19sqJEPDZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Đi đâu xa mà gặp những người tốt giúp nói thiệt là mừng rớt nước mắt, xem những cảnh này mới thấy mình thật mai mắn là người con việt nam, cam ơn e khoai, e là YouTube mà c ngưỡng mộ 👍🏻👍🏻 mong e giữ mãi tính tình chắc phát và hiền lành như vậy Hoài nha e 😊",
+                        "textOriginal": "Đi đâu xa mà gặp những người tốt giúp nói thiệt là mừng rớt nước mắt, xem những cảnh này mới thấy mình thật mai mắn là người con việt nam, cam ơn e khoai, e là YouTube mà c ngưỡng mộ 👍🏻👍🏻 mong e giữ mãi tính tình chắc phát và hiền lành như vậy Hoài nha e 😊",
+                        "authorDisplayName": "@TrucNganLeThi-xi8jy",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/YWMJj3kLc5xEvmNJVu4suWXlcH0weMNtVLDxRXbVyYNrPIOtrI8W4KEHyYGYcRghlcrf59EJ_GM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@TrucNganLeThi-xi8jy",
+                        "authorChannelId": {
+                            "value": "UCsNrRoWPeAGfMiK7wE2boPg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-03T04:50:17Z",
+                        "updatedAt": "2024-12-03T04:50:17Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "BkDFO-f_vEBT3hMZ2IGVCZMKpyc",
+            "id": "UgyN-4rZI5mZGNbjvQx4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "augshsV92LUJ1j4Qvez15eUc_es",
+                    "id": "UgyN-4rZI5mZGNbjvQx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Anh áo đen tưởng Khoai đến từ China nên ảnh chào Ní hào",
+                        "textOriginal": "Anh áo đen tưởng Khoai đến từ China nên ảnh chào Ní hào",
+                        "authorDisplayName": "@trinhn68",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nM8r77Y7Us-1FW6dv-MFAEOgqP10cph49FkxXDnpVClwNGEIdM5zdTUyEgLLRRse4Z7A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@trinhn68",
+                        "authorChannelId": {
+                            "value": "UChuTV10b7We3djuMeCMu64w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-03T01:57:22Z",
+                        "updatedAt": "2024-12-03T01:57:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NkKgtIpPF5zOx-94ubTyl1Qxtac",
+            "id": "UgwoxWreYFzOWTy4lKd4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "u3P5zbqYqWXzol1bhVqnBSLH3R0",
+                    "id": "UgwoxWreYFzOWTy4lKd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Đá dùng để ăn bổ sung chất gì đó cho cơ thể ..mình đã xem đc ở đâu đó mà quên rồi",
+                        "textOriginal": "Đá dùng để ăn bổ sung chất gì đó cho cơ thể ..mình đã xem đc ở đâu đó mà quên rồi",
+                        "authorDisplayName": "@GiangLệ-m3y",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n729880_hRzWesqCNbjV-S1QJ4_iFXJI0ACNQ_amgCGeUQGLx96oMiJ7gJ4FbIrKVpqA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@GiangL%E1%BB%87-m3y",
+                        "authorChannelId": {
+                            "value": "UCHD7XcNbsp2RcCatb4Djr2Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-02T15:27:04Z",
+                        "updatedAt": "2024-12-02T15:27:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_xPnyzAbQeeas7ubQ-ZPIk0e4Yw",
+            "id": "UgybB8LnpBsZG9vHKgF4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "9VRlGpRNvMKzEk_-LxqTjuef-cI",
+                    "id": "UgybB8LnpBsZG9vHKgF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "thấy hay ha",
+                        "textOriginal": "thấy hay ha",
+                        "authorDisplayName": "@haiminh7927",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/dKGz-Z9p8QsiYmz2wA6EwRXCKczBUOoJ0RdaF9-lDQBLLOY7CCkwisC5TdlLwIdhw_9yRQ3iD3Y=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@haiminh7927",
+                        "authorChannelId": {
+                            "value": "UC4lUvIQpc6hCYyaafUxY1hQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-02T11:26:35Z",
+                        "updatedAt": "2024-12-02T11:26:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "fwSe26NxfFbYADzFY-2B3hVy1uM",
+            "id": "Ugx8JDl9FQNtv8Vnoal4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "zHP7bIED8UwJM0pIGP91E7HAAIo",
+                    "id": "Ugx8JDl9FQNtv8Vnoal4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "❤❤❤",
+                        "textOriginal": "❤❤❤",
+                        "authorDisplayName": "@tGoldenPhoenix",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/EK7XjoT4yv341c9muvjxO0H8_YWeb9vbp9jJdy_iuOMkse7I8cy5fUUw_BRUPd05ItjJjwh4Fg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@tGoldenPhoenix",
+                        "authorChannelId": {
+                            "value": "UC16PFfdJ2ngRRiUQkHZ2xEg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-02T08:03:16Z",
+                        "updatedAt": "2024-12-02T08:03:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "75s_sZrPC8UTbTBK2v63YsY-Cbg",
+            "id": "Ugz8meuZyVyK7ZluFO54AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "sRqJaLO1vSlLK8eOdms84i5Nh-k",
+                    "id": "Ugz8meuZyVyK7ZluFO54AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "mấy anh chị siêu siêu đáng yêu &amp; hiếu khách nữa &lt;3",
+                        "textOriginal": "mấy anh chị siêu siêu đáng yêu & hiếu khách nữa <3",
+                        "authorDisplayName": "@Béanhơiii",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Y5Zeq-y0LuUUqYS7RqKnjjA3dPCRL6GuSrcckWsCGwqFDuVb0DYM9qhA0uIiaNXL4T81L6qm=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@B%C3%A9anh%C6%A1iii",
+                        "authorChannelId": {
+                            "value": "UCEhqT_T_eKcF7ouGc_XL7_A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-02T06:10:10Z",
+                        "updatedAt": "2024-12-02T06:10:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "LDXVOkU9EY7cAY-dUiNCm71jlUM",
+            "id": "UgyQXK34xA-sCDmNxbJ4AaABAg",
+            "snippet": {
+                "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                "videoId": "5AJd2FJUVkc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LThmpTUPCy-oxWQY_JWCV2f2YPc",
+                    "id": "UgyQXK34xA-sCDmNxbJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCZE88kYvCKUKjM-G0uc8Duw",
+                        "videoId": "5AJd2FJUVkc",
+                        "textDisplay": "Giọng Khoai cảm giác rất hiền và ngôn ngữ thân thiện và tôn trọng mọi thứ. Trải nghiệm và chấp nhận thói quen địa phương là điều quan trọng bạn truyền tải đúng ý nghĩa của blog Du Lịch.Không phải cách nói tiêu cực, chê bai  thiếu tôn trọng văn hoá, con người như những bạn khác. Hi vọng bạn giữ cái cách mộc mạc và gần gũi.Không bị showbiz, kiểu ngôi sao gì đó",
+                        "textOriginal": "Giọng Khoai cảm giác rất hiền và ngôn ngữ thân thiện và tôn trọng mọi thứ. Trải nghiệm và chấp nhận thói quen địa phương là điều quan trọng bạn truyền tải đúng ý nghĩa của blog Du Lịch.Không phải cách nói tiêu cực, chê bai  thiếu tôn trọng văn hoá, con người như những bạn khác. Hi vọng bạn giữ cái cách mộc mạc và gần gũi.Không bị showbiz, kiểu ngôi sao gì đó",
+                        "authorDisplayName": "@maradao3079",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mpygVQC93AY5oBHDmERUxdyXgNE4isWtVB9lDkg680r2s=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@maradao3079",
+                        "authorChannelId": {
+                            "value": "UCanyBGAatJT0iSyWYux0ljA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-12-02T02:47:34Z",
+                        "updatedAt": "2024-12-02T02:51:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

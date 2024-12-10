@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "z9djXNObnRaseIFZ-1lBpMhV7sI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RKRdUjV8flmJhBFCcFpOLKZloUw",
+            "id": "5AJd2FJUVkc",
+            "statistics": {
+                "viewCount": "2120814",
+                "likeCount": "29452",
+                "favoriteCount": "0",
+                "commentCount": "1236"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IRUQIkUS1A_7diqcXj172DeLbWw",
+            "id": "M_WD9Dxayk8",
+            "statistics": {
+                "viewCount": "1595138",
+                "likeCount": "28627",
+                "favoriteCount": "0",
+                "commentCount": "1376"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_N4gACKvrIuKC898MwpmyrrXX0I",
+            "id": "N-gpD9QqTK0",
+            "statistics": {
+                "viewCount": "1483187",
+                "likeCount": "37104",
+                "favoriteCount": "0",
+                "commentCount": "1948"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 3,
+        "resultsPerPage": 3
+    }
+}
