@@ -12,11 +12,13 @@ def main():
         api_service_name,api_version, developerKey = DEVELOPER_KEY
     )
     request = youtube.commentThreads().list(
-        part = "snippet, replies",
-        videoId = "5AJd2FJUVkc"
+        part="snippet, replies",
+        maxResults=50,
+        videoId="S07VinbxN3g"
     )
     response = request.execute()
     with open("output.json", "w", encoding="utf-8") as f:
         json.dump(response, f, indent=4, ensure_ascii=False)
 if __name__ == "__main__":
     main()
+"UC7HSkveUtUDfvHoqzAk4Qmg"
