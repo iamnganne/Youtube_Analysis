@@ -1,8 +1,12 @@
 import os
 import googleapiclient.discovery
 import json
+<<<<<<< HEAD
 import csv
 from pyspark.sql import SparkSession
+=======
+
+>>>>>>> fbc6da43793c30f65602a57d35af2c92efda5ecf
 def main():
     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
     api_service_name = "youtube"
@@ -60,6 +64,7 @@ def main():
     with open("video.json", "w", encoding="utf-8") as f:
         json.dump(responses, f, indent=4, ensure_ascii=False)
 
+<<<<<<< HEAD
     # process_with_pyspark("video.json","video.csv")
     with open("video.json", "r", encoding = "utf-8") as f:
         data = json.load(f)
@@ -99,5 +104,7 @@ def save_to_csv(videos, filename="videos.csv"):
         writer.writerows(videos)
     print(f"Saved {len(videos)} videos to {filename}.")
 
+=======
+>>>>>>> fbc6da43793c30f65602a57d35af2c92efda5ecf
 if __name__ == "__main__":
     main()
